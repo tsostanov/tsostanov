@@ -86,3 +86,7 @@ Backend developer / QA engineer. Работаю с Go, Python, Java и C++, ин
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tsostanov&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tsostanov&style=flat-square&color=blue" alt="Profile views" />
+</p>
