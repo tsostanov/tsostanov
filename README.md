@@ -1,79 +1,89 @@
-![Hi!](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
-# Привет! Меня зовут Тимур Состанов
+![Hi!](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-Добро пожаловать на мой GitHub профиль. 
+<h1 align="center">Привет, я Тимур Состанов 👋</h1>
+
+<p align="center">
+  backend developer / QA engineer from Saint Petersburg
+</p>
+
+<p align="center">
+  <a href="https://github.com/tsostanov">GitHub</a> •
+  <a href="https://t.me/tsostanov">Telegram</a> •
+  <a href="https://www.codewars.com/users/tsostanov">Codewars</a> •
+  <a href="mailto:tsostanov@gmail.com">Email</a>
+</p>
 
 ---
 
 ### О себе
 
-- 🌍 Я живу в Санкт-Петербурге
+Я студент 3 курса ИТМО по направлению «Системное и прикладное программное обеспечение».  
 
-- 🎓 Учусь в [ITMO University](https://itmo.ru/) на факультете "Системное и прикладное программное обеспечение".
-<!-- - ✉️ Связаться со мной можно по email: [tsostanov@gmail.com](mailto:tsostanov@gmail.com) -->
-- 🧠 В настоящее время изучаю: C++ и Go с фокусом на создание высоконагруженных систем и оптимизацию многопоточных приложений.
-
-<!-- - 🎯 Моя цель на GitHub: участвовать в open-source проектах и улучшать свои навыки -->
 
 ---
 
-### 🛠️ Навыки
+### Проекты
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
-</a>
-<a href="https://go.dev/doc/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" />
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
-</a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
-</a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-</a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-</a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" />
-</a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
-</a>
+- [**comp**](https://github.com/tsostanov/comp) - учебный компилятор на Go с лексером, парсером, AST и семантическим анализом
+- [**tpo**](https://github.com/tsostanov/tpo) - лабораторные по тестированию на Python с pytest и высоким покрытием
+- [**recruto-web-service**](https://github.com/tsostanov/recruto-web-service) - небольшой backend-сервис на FastAPI
+- [**wr_bot**](https://github.com/tsostanov/wr_bot) - Telegram-бот для организации задач и рабочих сессий
+- [**moi**](https://github.com/tsostanov/moi) - проекты по методам обработки изображений на Python
+- [**coworkly**](https://github.com/tsostanov/coworkly) - командный проект с backend и базой данных
+- [**movies-app**](https://github.com/tsostanov/movies-app) - Java-проект с веб-частью для работы с фильмами
+
+---
+
+### 🧰 Toolbox
+
+<table>
+  <tr>
+    <td align="center"><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/REST_API-ff6f00?style=flat-square" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Testing</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
+      <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white" />
+      <img src="https://img.shields.io/badge/Mockito-78A641?style=flat-square" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tsostanov&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=2f80ed&text_color=c9d1d9&icon_color=2f80ed&bg_color=0d1117" alt="GitHub stats" />
 </p>
 
----
-<!-- 
-### 🌐 Социальные сети
-
-<p align="left">
-  <a href="https://www.github.com/tsostanov" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-    </picture>
-  </a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsostanov&layout=compact&hide_border=true&title_color=2f80ed&text_color=c9d1d9&bg_color=0d1117" alt="Top languages" />
 </p>
-
---- -->
-
-### 📊 Статистика
-
-<a href="https://github.com/tsostanov" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsostanov&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-</a>
-
-<!-- ---
-
-
----
-
-### 🏆 Бейджи (Badges) -->
