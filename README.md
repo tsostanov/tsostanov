@@ -81,9 +81,9 @@
 ### 📊 Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tsostanov&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=2f80ed&text_color=c9d1d9&icon_color=2f80ed&bg_color=0d1117" alt="GitHub stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tsostanov&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsostanov&layout=compact&hide_border=true&title_color=2f80ed&text_color=c9d1d9&bg_color=0d1117" alt="Top languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tsostanov&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
 </p>
